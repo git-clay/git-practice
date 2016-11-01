@@ -1,0 +1,35 @@
+div#wrapper{
+	width: 500px;
+	background-color: #f113d5;
+	margin: auto;
+
+}
+h1{
+	color: blue;
+	font-size: 40px;
+	text-shadow: 2px 2px #404000;
+	display: block;
+	text-align: center;
+	background-color: #ff55ff;
+	border: dashed 1px white;
+	margin: 0 10%;
+}
+
+li{
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 8px;
+	display: inline;
+}
+img{
+	margin: 0 auto
+	width: 100px;
+}
+h2{
+	color: yellow;
+	margin: 15px 10%;
+}
+p{
+	color: white;
+	margin: 15px 5%;
+}
